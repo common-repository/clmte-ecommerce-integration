@@ -1,0 +1,39 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ /* General Settings */
+ h2#shortcodes {
+   margin-top: 2em;
+ }
+
+/* Table styles */
+.clmte-table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 20px;
+}
+
+.clmte-table th {
+  background-color: #ddd;
+}
+
+.clmte-table td,
+.clmte-table th {
+  border: 1px solid #878686;
+  text-align: left;
+  padding: 8px;
+}
+
+.clmte-table .error {
+  background-color: rgb(234, 186, 186);
+}
+
+.clmte-table .CREATED {
+    background-color: rgb(217, 238, 224);
+}
+
+.clmte-table .PENDING {
+    background-color: rgb(249, 237, 202);
+}

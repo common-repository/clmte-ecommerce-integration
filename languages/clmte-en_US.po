@@ -1,0 +1,288 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CLMTE - Ecommerce Integration\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-29 18:29+0000\n"
+"PO-Revision-Date: 2021-07-25 14:11+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.3; wp-5.8\n"
+"X-Domain: clmte"
+
+#: admin/partials/clmte-settings-main.php:13
+msgid ""
+" Din organisations API-nyckel, som kan fås genom att skapa ett konto och en "
+"organisation hos clmte.com"
+msgstr ""
+" Your organisation\\'s API Key which can be found by creating an account and "
+"organisation at clmte.com "
+
+#: admin/partials/clmte-settings-main.php:19
+msgid ""
+" Din organisations Organisations-ID, som kan fås genom att skapa ett konto "
+"och en organisation hos clmte.com"
+msgstr ""
+"Your organisation\\'s Organisation ID which can be found by creating an "
+"account and organisation at clmte.com"
+
+#: admin/partials/clmte-settings-purchases.php:30
+msgid " kompensationer"
+msgstr " offsets"
+
+#: admin/partials/clmte-settings-purchases.php:30
+msgid "1 kompensation"
+msgstr "1 offset"
+
+#: admin/partials/clmte-settings-main.php:5
+#: admin/partials/clmte-settings-main.php:51
+msgid "Allmän Konfiguration"
+msgstr "General Configuration"
+
+#: admin/partials/clmte-settings-purchases.php:39
+msgid "Antal"
+msgstr "Amount"
+
+#: admin/partials/clmte-settings-main.php:11
+msgid "API-Nyckel"
+msgstr "API Key"
+
+#: admin/class-clmte-wc-settings.php:110
+msgid ""
+"API-nyckeln och/eller Organisations-ID:et verkar saknas eller vara felaktiga."
+msgstr ""
+"The API key and/or the Organisation ID seem to be missing or be incorrect."
+
+#: admin/partials/clmte-settings-log.php:27
+msgid "Beskrivning"
+msgstr "Description"
+
+#. Author of the plugin
+#: admin/class-clmte-wc-settings.php:31
+msgid "CLMTE"
+msgstr "CLMTE"
+
+#. Name of the plugin
+msgid "CLMTE - Ecommerce Integration"
+msgstr "CLMTE - Ecommerce Integration"
+
+#: admin/class-clmte-wc-settings.php:120
+msgid "CLMTE Klimatkompensationer"
+msgstr "CLMTE Offsets"
+
+#: admin/class-clmte-wc-settings.php:125
+msgid "CLMTE Klimatkompensations-ruta:"
+msgstr "CLMTE Offset Box: "
+
+#: clmte.php:136
+msgid "CLMTE Klimatspårning"
+msgstr "CLMTE Carbon Tracking"
+
+#: admin/class-clmte-wc-settings.php:126
+msgid "CLMTE Kvitto:"
+msgstr "CLMTE Receipt:"
+
+#: admin/partials/clmte-settings-log.php:22
+msgid "CLMTE Plugin-loggar"
+msgstr "CLMTE Plugin Logs"
+
+#: clmte.php:62
+msgid "CLMTE requires WooCommerce to be installed and active."
+msgstr "CLMTE requires WooCommerce to be installed and active."
+
+#: clmte.php:92
+msgid ""
+"CLMTEs klimatkompensation gör ditt köp klimatneutralt genom att finansiera "
+"initiativ runt om i världen som minskar koldioxidutsläpp. Kostnaden är "
+"beräknad enligt bolagets data- och forskningsbaserade algoritm, och alla "
+"finansierade initiativ är FN-certifierade. Läs mer på"
+msgstr ""
+"CLMTE's climate offsetting makes your purchase carbon neutral by financing "
+"initiatives around the world that reduce carbon dioxide emissions. The cost "
+"is calculated according to the company's data and research-based algorithm, "
+"and all funded initiatives are UN-certified. Read more at"
+
+#: clmte.php:118
+msgid "Din Klimatkompensation"
+msgstr "Your Carbon Offset"
+
+#: clmte.php:139
+msgid "din spårningssida"
+msgstr "your tracking page"
+
+#. Description of the plugin
+msgid ""
+"Easily allow your customers to carbon offset their purchases in your "
+"WooCommerce shop. Read more at clmte.com."
+msgstr ""
+"Easily allow your customers to carbon offset their purchases in your "
+"WooCommerce shop. Read more at clmte.com."
+
+#: admin/partials/clmte-settings-main.php:44
+msgid "Egen placering av kompensations-kvitto?"
+msgstr "Custom Receipt Placement?"
+
+#: admin/partials/clmte-settings-main.php:37
+msgid "Egen placering av kompensations-ruta?"
+msgstr "Custom Offset Placement?"
+
+#: admin/partials/clmte-settings-purchases.php:30
+msgid "ej synkroniserade med CLMTE’s servrar."
+msgstr "not synced with the CLMTE’s servers."
+
+#: clmte.php:139
+msgid ""
+"för att följa din klimatkompensations påverkan i realtid och se vilket "
+"klimatinitiativ det bidrar till."
+msgstr ""
+"to follow the impact of your offset in real-time and see which offset "
+"initiative it contributes towards."
+
+#: clmte.php:143
+msgid "För mer information, besök"
+msgstr "For more information, visit "
+
+#. URI of the plugin
+msgid "https://github.com/aliceheiman/clmte-ecommerce-integration"
+msgstr "https://github.com/aliceheiman/clmte-ecommerce-integration"
+
+#: admin/class-clmte-wc-settings.php:49
+msgid "Inställningar"
+msgstr "Settings"
+
+#: clmte.php:128
+msgid "kg koldioxid"
+msgstr "kg carbon dioxide"
+
+#: admin/partials/clmte-settings-purchases.php:41
+msgid "Kg koldioxid kompenserad"
+msgstr "Kg carbon dioxide offset"
+
+#: admin/partials/clmte-settings-main.php:39
+msgid ""
+"Klicka i rutan för att använda egen placering för klimatkompensations-rutan "
+"med en shortcode nedan."
+msgstr ""
+"Check this box to use custom placement for the carbon offseting box with the "
+"shortcode below."
+
+#: admin/partials/clmte-settings-main.php:46
+msgid ""
+"Klicka I rutan för att använda egen placering för kompensations-kvittot med "
+"en shortcode nedan."
+msgstr ""
+"Custom Receipt Placement? - Egen placering av kompensations-kvitto?\n"
+"Check this box to use custom placement for the carbon offset receipt with "
+"the shortcode below. "
+
+#: admin/partials/clmte-settings-main.php:25
+msgid "Klicka i rutan för att börja använda pluginet med riktiga API-anrop."
+msgstr "Check this box to start using the plugin with real API calls."
+
+#: admin/partials/clmte-settings-main.php:32
+msgid ""
+"Klicka i rutan om det uppstår svårigheter med att lägga till "
+"klimatkompensationen i varukorgen."
+msgstr "Check this box if there is trouble adding the offset to cart."
+
+#: clmte.php:128
+msgid "kommer att klimatkompenseras tack vare din insats."
+msgstr "will be offset thanks to your contribution."
+
+#: admin/class-clmte-wc-settings.php:121
+msgid "Kompensationens Kostnad:"
+msgstr "Offset Price:"
+
+#: admin/partials/clmte-settings-purchases.php:43
+msgid "Kompensations-id"
+msgstr "Offset id"
+
+#: admin/class-clmte-wc-settings.php:51
+msgid "Köp"
+msgstr "Purchases"
+
+#: admin/partials/clmte-settings-main.php:30
+msgid "Ladda om kundvagnen?"
+msgstr "Reload cart?"
+
+#: admin/class-clmte-wc-settings.php:50
+msgid "Loggar"
+msgstr "Logs"
+
+#: clmte.php:88
+msgid "Lägg till klimatkompensation"
+msgstr "Add carbon offset"
+
+#: admin/partials/clmte-settings-purchases.php:32
+msgid "Manuell Synkronisering"
+msgstr "Manual Synchronisation"
+
+#: admin/partials/clmte-settings-purchases.php:31
+msgid ""
+"Obs: Högst 2 stycken kompensationer med statusen PENDING kommer att "
+"synkroniseras automatiskt vid varje nytt köp av klimatkompensationer."
+msgstr ""
+"Note: A maximum of 2 PENDING offsets will be synced automatically at each "
+"subsequent offset purchase."
+
+#: admin/partials/clmte-settings-main.php:17
+msgid "Organisations-ID"
+msgstr "Organisation Id"
+
+#: admin/class-clmte-wc-settings.php:121
+msgid "Priset ej tillgängligt"
+msgstr "Price not available"
+
+#: admin/partials/clmte-settings-main.php:23
+msgid "Produktionsläge?"
+msgstr "Production Mode? "
+
+#: clmte.php:141
+msgid "QR-kod för CLMTE klimatkompensation"
+msgstr "CLMTE offset tracking QR-code"
+
+#: admin/class-clmte-wc-settings.php:124
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+#: clmte.php:141
+msgid "Skanna för att följa din klimatkompensation!"
+msgstr "Scan to track your CLMTE carbon offset!"
+
+#: clmte.php:139
+msgid "Skanna QR-koden nedan eller besök"
+msgstr "Scan the QR-code below or visit"
+
+#: admin/partials/clmte-settings-purchases.php:42
+msgid "Spårnings-id"
+msgstr "Tracking Id"
+
+#: admin/partials/clmte-settings-purchases.php:40
+msgid "Status"
+msgstr "Status"
+
+#: clmte.php:122
+msgid "Tack för du klimatkompenserade ditt köp med CLMTE!"
+msgstr "Thank you for carbon offsetting your purchase with CLMTE!"
+
+#: admin/partials/clmte-settings-log.php:28
+#: admin/partials/clmte-settings-purchases.php:38
+msgid "Tid"
+msgstr "Time"
+
+#: admin/partials/clmte-settings-log.php:26
+msgid "Typ"
+msgstr "Type"
+
+#: admin/class-clmte-wc-settings.php:122
+msgid "Uppdatera Pris"
+msgstr "Fetch Updated Price"
+
+#: clmte.php:86
+msgid "Vill du klimatkompensera ditt köp för"
+msgstr "Do you want to carbon offset your purchase for "

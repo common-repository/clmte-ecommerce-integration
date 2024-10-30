@@ -1,0 +1,246 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CLMTE - Ecommerce Integration\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-07-26 10:06+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.3; wp-5.8\n"
+"X-Domain: clmte"
+
+#: admin/partials/clmte-settings-purchases.php:29
+msgid " offsets"
+msgstr ""
+
+#: admin/partials/clmte-settings-main.php:13
+msgid ""
+" Your organisation's API Key, which can be found by creating an account and "
+"organisation at clmte.com"
+msgstr ""
+
+#: admin/partials/clmte-settings-main.php:19
+msgid ""
+" Your organisation's Organisation ID, which can be found by creating an "
+"account and organisation at clmte.com"
+msgstr ""
+
+#: admin/partials/clmte-settings-purchases.php:29
+msgid "1 offset"
+msgstr ""
+
+#: clmte.php:87
+msgid "Add carbon offset"
+msgstr ""
+
+#: admin/partials/clmte-settings-purchases.php:38
+msgid "Amount"
+msgstr ""
+
+#: admin/partials/clmte-settings-main.php:11
+msgid "API Key"
+msgstr ""
+
+#: includes/class-clmte-activator.php:42
+msgid "Carbon Offset"
+msgstr ""
+
+#: includes/class-clmte-activator.php:43
+msgid "Carbon offset by CLMTE."
+msgstr ""
+
+#: admin/partials/clmte-settings-main.php:32
+msgid "Check this box if there is trouble adding the offset to the cart."
+msgstr ""
+
+#: admin/partials/clmte-settings-main.php:25
+msgid "Check this box to start using the plugin with real API calls."
+msgstr ""
+
+#: admin/partials/clmte-settings-main.php:46
+msgid ""
+"Check this box to use custom placement for the carbon offset receipt with "
+"the shortcode below."
+msgstr ""
+
+#: admin/partials/clmte-settings-main.php:39
+msgid ""
+"Check this box to use custom placement for the carbon offsetting box with "
+"the shortcode below."
+msgstr ""
+
+#. Author of the plugin
+#: admin/class-clmte-wc-settings.php:34
+msgid "CLMTE"
+msgstr ""
+
+#. Name of the plugin
+msgid "CLMTE - Ecommerce Integration"
+msgstr ""
+
+#: admin/class-clmte-wc-settings.php:127
+msgid "CLMTE Offset Box:"
+msgstr ""
+
+#: admin/class-clmte-wc-settings.php:122
+msgid "CLMTE Offsets"
+msgstr ""
+
+#: admin/partials/clmte-settings-log.php:21
+msgid "CLMTE Plugin Logs"
+msgstr ""
+
+#: admin/class-clmte-wc-settings.php:128
+msgid "CLMTE Receipt:"
+msgstr ""
+
+#: clmte.php:61
+msgid "CLMTE Ecommerce Integration requires WooCommerce to be installed and active."
+msgstr ""
+
+#: clmte.php:91
+msgid ""
+"CLMTE's climate offsetting makes your purchase carbon neutral by financing "
+"initiatives around the world that reduce carbon dioxide emissions. The cost "
+"is calculated according to the company's data and research-based algorithm, "
+"and all funded initiatives are UN-certified. Read more at"
+msgstr ""
+
+#: admin/partials/clmte-settings-main.php:37
+msgid "Custom Offset Placement?"
+msgstr ""
+
+#: admin/partials/clmte-settings-main.php:44
+msgid "Custom Receipt Placement?"
+msgstr ""
+
+#: admin/partials/clmte-settings-log.php:26
+msgid "Description"
+msgstr ""
+
+#: clmte.php:85
+msgid "Do you wish to carbon offset your purchase for"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Easily allow your customers to carbon offset their purchases in your "
+"WooCommerce shop. Read more at clmte.com."
+msgstr ""
+
+#: admin/partials/clmte-settings-main.php:5
+#: admin/partials/clmte-settings-main.php:51
+msgid "General Configuration"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/aliceheiman/clmte-ecommerce-integration"
+msgstr ""
+
+#: clmte.php:125
+msgid "kg carbon dioxide"
+msgstr ""
+
+#: admin/partials/clmte-settings-purchases.php:40
+msgid "Kg CO2 offsetted"
+msgstr ""
+
+#: admin/class-clmte-wc-settings.php:53
+msgid "Logs"
+msgstr ""
+
+#: admin/partials/clmte-settings-purchases.php:31
+msgid "Manual Synchronisation"
+msgstr ""
+
+#: admin/partials/clmte-settings-purchases.php:29
+msgid "not synchronised with CLMTE’s servers."
+msgstr ""
+
+#: admin/partials/clmte-settings-purchases.php:30
+msgid ""
+"Note: A maximum of 2 PENDING offsets will be synced automatically at each "
+"subsequent offset purchase."
+msgstr ""
+
+#: admin/partials/clmte-settings-purchases.php:42
+msgid "Offset id"
+msgstr ""
+
+#: admin/class-clmte-wc-settings.php:123
+msgid "Offset Price:"
+msgstr ""
+
+#: admin/partials/clmte-settings-main.php:17
+msgid "Organisation ID"
+msgstr ""
+
+#: admin/class-clmte-wc-settings.php:123
+msgid "Price not available"
+msgstr ""
+
+#: admin/partials/clmte-settings-main.php:23
+msgid "Production Mode?"
+msgstr ""
+
+#: admin/class-clmte-wc-settings.php:54
+#: admin/partials/clmte-settings-purchases.php:25
+msgid "Purchases"
+msgstr ""
+
+#: admin/partials/clmte-settings-main.php:30
+msgid "Reload Cart?"
+msgstr ""
+
+#: admin/class-clmte-wc-settings.php:52
+msgid "Settings"
+msgstr ""
+
+#: admin/class-clmte-wc-settings.php:126
+msgid "Shortcodes"
+msgstr ""
+
+#: admin/partials/clmte-settings-purchases.php:39
+msgid "Status"
+msgstr ""
+
+#: clmte.php:119
+msgid "Thank you for carbon offsetting your purchase with CLMTE!"
+msgstr ""
+
+#: admin/class-clmte-wc-settings.php:112
+msgid ""
+"The API key and/or the Organisation ID seem to be missing or be incorrect."
+msgstr ""
+
+#: admin/partials/clmte-settings-log.php:27
+#: admin/partials/clmte-settings-purchases.php:37
+msgid "Time"
+msgstr ""
+
+#: admin/partials/clmte-settings-purchases.php:41
+msgid "Tracking id"
+msgstr ""
+
+#: admin/partials/clmte-settings-log.php:25
+msgid "Type"
+msgstr ""
+
+#: admin/class-clmte-wc-settings.php:124
+msgid "Update Price"
+msgstr ""
+
+#: clmte.php:125
+msgid "will be offset thanks to your contribution."
+msgstr ""
+
+#: clmte.php:115
+msgid "Your Carbon Offset"
+msgstr ""
